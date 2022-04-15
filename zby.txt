@@ -271,6 +271,7 @@ J2娱乐,http://120.84.96.32:808/hls/86/index.m3u8
 三立都會,http://59.125.101.187:8522/http/192.168.77.24:8081/hls/65/807/ch19.m3u8
 三立台灣,http://59.125.101.187:8519/http/192.168.77.24:8081/hls/65/807/ch20.m3u8，
 卫视电影ᴴᴰ,http://59.125.101.187:8599/http/192.168.77.24:8081/hls/66/808/ch22.m3u8
+东森财经,https://ssttvv1.6zxr.xyz/dsxw/index.m3u8#https://ssttvv1.6zxr.xyz/dsxw/hls/index.m3u8
 东森电影,http://120.84.96.32:808/hls/32/index.m3u8
 东森洋片,http://120.84.96.32:808/hls/33/index.m3u8
 龙祥时代,http://120.84.96.32:808/hls/35/index.m3u8
