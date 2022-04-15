@@ -266,7 +266,7 @@ Russia Today,https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
 无线新闻,http://radius.8866.org:880/hls/82/index.m3u8
 无线新闻,http://livesec.mudu.tv/watch/0t5ejs.m3u8#isVideo=true#
 J2娱乐,http://120.84.96.32:808/hls/86/index.m3u8
-翡翠台,http://radius.8866.org:880/hls/80/index.m3u8
+翡翠台,http://radius.8866.org:880/hls/80/index.m3u8#https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/profile_0/44a9bd23c6574d04bb173ce10d824618/chunklist_ssaiV.m3u8#https://bcovlive-a.akamaihd.net/38974baa695d47bbb231665ca52b8b3c/us-west-2/5324042807001/95ea73e414b14b7ea6406050a5293f17/playlist_ssaiM.m3u8
 明珠台,http://radius.8866.org:880/hls/84/index.m3u8
 三立都會,http://59.125.101.187:8522/http/192.168.77.24:8081/hls/65/807/ch19.m3u8
 三立台灣,http://59.125.101.187:8519/http/192.168.77.24:8081/hls/65/807/ch20.m3u8，
@@ -285,7 +285,7 @@ J2娱乐,http://120.84.96.32:808/hls/86/index.m3u8
 自然频道,http://59.125.101.187:8501/1.m3u8
 11体育,http://59.125.101.187:8588/1.m3u8
 年代MUHD,http://59.125.101.187:8589/1.m3u8
-三立新闻,http://59.125.101.187:8590/1.m3u8
+三立新闻,http://59.125.101.187:8590/1.m3u8#https://ssttvv1.6zxr.xyz/tvbs/hls/index.m3u8
 博斯曼1台,http://59.125.101.187:8591/1.m3u8
 博斯曼2台,http://59.125.101.187:8592/1.m3u8
 CHC电影台,,#genre#
