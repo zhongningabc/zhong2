@@ -276,7 +276,6 @@ J2娱乐,http://120.84.96.32:808/hls/86/index.m3u8
 三立台湾,http://59.125.101.187:8519/http/192.168.77.24:8081/hls/65/807/ch20.m3u8
 三立台湾,http://59.125.101.187:8731/playlist.m3u8
 三立新闻,http://59.125.101.187:8590/1.m3u8#https://ssttvv1.6zxr.xyz/tvbs/hls/index.m3u8
-卫视电影ᴴᴰ,http://59.125.101.187:8599/http/192.168.77.24:8081/hls/66/808/ch22.m3u8
 卫视中文台,http://59.125.101.187:8720/playlist.m3u8
 东森财经,https://ssttvv1.6zxr.xyz/dsxw/index.m3u8#https://ssttvv1.6zxr.xyz/dsxw/hls/index.m3u8
 东森财经,http://59.125.101.187:8770/playlist.m3u8
@@ -324,6 +323,7 @@ MOMO亲子台,http://59.125.101.187:8740/playlist.m3u8
 HBO,http://59.125.101.187:8757/playlist.m3u8
 好莱坞电影台,http://59.125.101.187:8754/playlist.m3u8
 卫视电影台,http://59.125.101.187:8753/playlist.m3u8
+卫视电影台,http://59.125.101.187:8599/http/192.168.77.24:8081/hls/66/808/ch22.m3u8
 CINEMAX,http://59.125.101.187:8761/playlist.m3u8
 MOVIES GOLD,http://59.125.101.187:8745/playlist.m3u8
 CHC电影台,#genre#
