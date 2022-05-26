@@ -194,6 +194,8 @@ Russia Today,https://rt-uk.rttv.com/live/rtuk/playlist.m3u8
 台湾台,#genre#
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
+中天新闻,https://ssttvv1.6zxr.xyz/ztxw/index.m3u8
+中天新闻,https://ssttvv1.6zxr.xyz/ztxw/hls/index.m3u8
 民视新闻台HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 民视HD,http://50.7.218.42:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce
 CHC电影台,#genre#
