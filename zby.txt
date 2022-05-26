@@ -201,7 +201,6 @@ TVBS HD,https://ssttvv1.6zxr.xyz/tvbs56/hls/index.m3u8
 民视新闻台HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 台视新闻台,https://ssttvv1.6zxr.xyz/tvbs/index.m3u8
 台视新闻台,https://ssttvv1.6zxr.xyz/tvbs/hls/index.m3u8
-民视HD,http://50.7.218.42:8278/ftvhd_taiwan/playlist.m3u8?tid=15141291&ct=17990&tsum=ab93fcdf581cc3f483e1ceede13312ce
 CHC电影台,#genre#
 CHC动作电影,http://111.20.33.93/TVOD/88888893/224/3221226465/index.m3u8
 CHC动作电影,http://117.148.179.138/PLTV/88888888/224/3221231580/index.m3u8
