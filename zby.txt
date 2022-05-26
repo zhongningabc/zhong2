@@ -177,6 +177,7 @@ CETV4,http://117.148.179.155/PLTV/88888888/224/3221231613/index.m3u8
 FOX News,http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 NBC News,http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
 NBC News,http://59.125.101.187:8708/playlist.m3u8
+CNN,http://elattar-tv.org:8080/LUCKYG/22376727484869/67685
 CNN,https://cnn-cnninternational-1-gb.samsung.wurl.com:443/manifest/playlist_1280x720_3000k.m3u8
 CNN,http://1942468522.rsc.cdn77.org/Nxo_69uHTvyBXK3kD7TSAA==,1649306413/1942468522/index.m3u8
 CBS,https://www.cbsnews.com/common/video/cbsn_header_prod.m3u8
