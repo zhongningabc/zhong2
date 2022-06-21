@@ -198,7 +198,7 @@ TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist0.m3u8
 TVBS新闻,http://38.64.72.148:80/hls/modn/list/4006/chunklist1.m3u8
 TVBS HD,https://ssttvv1.6zxr.xyz/tvbs56/index.m3u8
 TVBS HD,https://ssttvv1.6zxr.xyz/tvbs56/hls/index.m3u8
-中天新闻,https://ssttvv1.6zxr.xyz/ztxw/index.m3u8
+中天新闻,https://live.6zxr.xyz/ztxw/index.m3u8
 中天新闻,https://ssttvv1.6zxr.xyz/ztxw/hls/index.m3u8
 民视新闻台HD,http://38.64.72.148:80/hls/modn/list/4012/chunklist0.m3u8
 台视新闻台,https://ssttvv1.6zxr.xyz/tvbs/index.m3u8
